@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alper.</h1>
+### Hi 👋, I'm Alper.  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperrehayazgan&label=Profile%20views&color=0e75b6&style=flat" alt="alperrehayazgan" /> </p>
 <h3 align="left">A DevOps Engineer from Turkey which passionate with Golang.</h3>
 
