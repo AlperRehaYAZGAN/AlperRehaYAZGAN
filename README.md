@@ -3,24 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperrehayazgan&label=Profile%20views&color=0e75b6&style=flat" alt="alperrehayazgan" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alperreha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alperreha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alperreha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperreha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11067413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11067413" height="30" width="40" /></a>
-<a href="https://medium.com/@alperreha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alperreha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alperrehayazgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alperrehayazgan" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperrehayazgan&show_icons=true&locale=en&layout=compact" alt="alperrehayazgan" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alperrehayazgan&show_icons=true&locale=en" alt="alperrehayazgan" /></p>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperrehayazgan" alt="alperrehayazgan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/alperreha" target="blank"><img src="https://img.shields.io/twitter/follow/alperreha?logo=twitter&style=for-the-badge" alt="alperreha" /></a> </p>
 
 - 🔭 I’m currently working on [Türk Telekom](https://www.turktelekom.com.tr/sayfalar/ana-sayfa.aspx)
 
@@ -31,6 +13,27 @@
 - 💬 Ask me about **AWS, Firebase, Golang, Typescript**
 
 - 📫 How to reach me **alperreha@yazgan.xyz**
+
+
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left"> <a href="https://twitter.com/alperreha" target="blank"><img src="https://img.shields.io/twitter/follow/alperreha?logo=twitter&style=for-the-badge" alt="alperreha" /></a> </p>
+
+<p align="left">
+<a href="https://twitter.com/alperreha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alperreha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alperreha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperreha" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11067413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11067413" height="30" width="40" /></a>
+<a href="https://medium.com/@alperreha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alperreha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alperrehayazgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alperrehayazgan" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alperrehayazgan&show_icons=true&locale=en" alt="alperrehayazgan" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperrehayazgan&show_icons=true&locale=en&layout=compact" alt="alperrehayazgan" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperrehayazgan" alt="alperrehayazgan" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
