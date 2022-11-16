@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperrehayazgan&label=Profile%20views&color=0e75b6&style=flat" alt="alperrehayazgan" /> </p>
 <h3 align="left">A DevOps Engineer from Turkey who passionate learning Golang stuff.</h3>
 
+- 📕 My Personal Blog page is: <a href="https://alperreha.yazgan.xyz"> https://alperreha.yazgan.xyz/ </a>. 
 
 - 🔭 I’m currently working on [Türk Telekom](https://www.turktelekom.com.tr/sayfalar/ana-sayfa.aspx)
 
