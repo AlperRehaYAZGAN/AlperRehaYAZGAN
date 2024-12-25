@@ -3,9 +3,10 @@
 <h3 align="left">A Fullstack Developer from Turkey who passionate learning React & Golang stuff.</h3>
 
 - 📕 My websites are:
-  - My digital world: <a href="https://yazgan.xyz"> yazgan.xyz/ </a>.
-  - My personal blog: <a href="https://alperreha.yazgan.xyz"> alperreha.yazgan.xyz/ </a>.
-  - My slides: <a href="https://slides.yazgan.xyz"> slides.yazgan.xyz/ </a>.
+  - My digital world: <a href="https://yazgan.xyz"> yazgan.xyz </a>.
+  - My personal blog: <a href="https://alperreha.yazgan.xyz"> alperreha.yazgan.xyz </a>.
+  - My slides: <a href="https://slides.yazgan.xyz"> slides.yazgan.xyz </a>.
+  - My videos: <a href="https://videos.yazgan.xyz"> videos.yazgan.xyz </a>
 
 - 🔭 I’m currently working as a solo developer. ex [@TürkTelekom](https://www.turktelekom.com.tr/sayfalar/ana-sayfa.aspx) 
 
