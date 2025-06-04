@@ -8,7 +8,7 @@
   - My slides: <a href="https://slides.yazgan.xyz"> slides.yazgan.xyz </a>.
   - My videos: <a href="https://videos.yazgan.xyz"> videos.yazgan.xyz </a>
 
-- 🔭 I’m currently working as a solo developer. ex [@TürkTelekom](https://www.turktelekom.com.tr/sayfalar/ana-sayfa.aspx) 
+- 🔭 I’m currently working as a solo developer.
 
 - 🌱 I’m currently learning **Next.js & Golang & Kubernetes and Cloud Platforms like AWS, GCP.**
 
