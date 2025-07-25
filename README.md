@@ -1,19 +1,18 @@
-### Hi there, I'm rehash\_ 👋
+### Hi 👋, its rehash\_
 
-#### just a regular gopher-n-fullstack dev and cloud enthusiast with ai flavour.
-
-I’m currently working as a solo developer.
+just a regular gopher-n-fullstack dev and cloud enthusiast with ai flavour.
 
 my-digital world: <a href="https://yazgan.xyz"> yazgan.xyz </a>  
 my-blog: <a href="https://alperreha.yazgan.xyz"> alperreha.yazgan.xyz </a>  
 my-slides: <a href="https://slides.yazgan.xyz"> slides.yazgan.xyz </a>  
 my-videos: <a href="https://videos.yazgan.xyz"> videos.yazgan.xyz </a>
 
-tech-stack:
-**\*Frontend:** React, Solid.js, Remix, Next.js, Tailwind CSS, Shadcn UI.  
- **Backend:** Golang, Node.js, PostgreSQL, Redis, Elastic.  
- **DevOps:** Docker, Kubernetes (Openshift), GitHub Actions, Gitlab CI/CD, ArgoCD.  
- **Cloud:** AWS Lightsail, Cloudflare Workers.
+#### Tech Stack:  
+
+**Frontend:** React, Solid.js, Remix, Next.js, Tailwind CSS, Shadcn UI.  
+**Backend:** Golang, Node.js, PostgreSQL, Redis, Elastic.  
+**DevOps:** Docker, Kubernetes (Openshift), GitHub Actions, Gitlab CI/CD, ArgoCD.  
+**Cloud:** AWS Lightsail, Cloudflare Workers.
 
 > reach me out: **alperreha@yazgan.xyz**
 
