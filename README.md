@@ -3,9 +3,7 @@
 just a regular gopher-n-fullstack dev and cloud enthusiast with ai flavour.
 
 my-digital world: <a href="https://yazgan.xyz"> yazgan.xyz </a>  
-my-blog: <a href="https://alperreha.yazgan.xyz"> alperreha.yazgan.xyz </a>  
 my-slides: <a href="https://slides.yazgan.xyz"> slides.yazgan.xyz </a>  
-my-videos: <a href="https://videos.yazgan.xyz"> videos.yazgan.xyz </a>
 
 #### Tech Stack:  
 
