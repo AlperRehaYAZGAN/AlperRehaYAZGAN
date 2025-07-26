@@ -1,9 +1,9 @@
 ### Hi 👋, its rehash\_
 
-just a regular gopher-n-fullstack dev and cloud enthusiast with ai flavour.
+just a regular gopher-n-fullstack dev and cloud enthusiast with ai flavour. 🔥
 
-my-digital world: <a href="https://yazgan.xyz"> yazgan.xyz </a>  
-my-slides: <a href="https://slides.yazgan.xyz"> slides.yazgan.xyz </a>  
+**my-digital world:** <a href="https://yazgan.xyz"> yazgan.xyz </a>  
+**my-slides:** <a href="https://slides.yazgan.xyz"> slides.yazgan.xyz </a>  
 
 #### Tech Stack:  
 
