@@ -16,23 +16,6 @@ my-videos: <a href="https://videos.yazgan.xyz"> videos.yazgan.xyz </a>
 
 > reach me out: **alperreha@yazgan.xyz**
 
-### Connect with me
-
-<p align="left">
-    <a href="https://linkedin.com/in/alperreha" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/alperreha" target="_blank">
-        <img src="https://img.shields.io/badge/X-12100E?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://medium.com/@alperreha" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-    </a>
-    <a href="https://www.youtube.com/c/alperrehayazgan" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-    </a>
-</p>
-
 ### Support by buying me a coffee
 
 <p align="left">
