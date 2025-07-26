@@ -1,20 +1,20 @@
 [
   {
-    "title": "Introduction",
-    "description": "An introduction to my blog",
-    "published": "2023-01-01",
-    "tags": ["introduction", "blog"],
-    "image": "https://example.com/image.png",
-    "filename": "intro.mdx",
-    "slug": "intro"
+    "title": "Use Github to Host Your Markdown Blogs",
+    "description": "In this article i will explain how can you use Github Markdown as a Blog Post CMS.",
+    "published": "2025-07-25",
+    "tags": ["github", "remix.js", "mdx"],
+    "image": "https://opengraph.githubassets.com/c9773f8199a78c0874295d5eb05d43898fed9b24e58a6f4c63b3cf9e6cbbac9d/alperrehayazgan/alperrehayazgan",
+    "filename": "1-entrypoint-of-my-blogs.mdx",
+    "slug": "entrypoint-of-my-blogs"
   },
   {
-    "title": "Introduction into webcontainers",
-    "description": "Super easy way to get started in WebContainers",
-    "published": "2025-05-07",
-    "tags": ["introduction", "blog"],
-    "image": "https://example.com/image.png",
-    "filename": "intro.mdx",
-    "slug": "intro"
+    "title": "Webcontainers on the Browser",
+    "description": "I will guide you to how can you create in-browser hands-on lab environment and build cool stuff with ai. 🔥",
+    "published": "2025-05-26",
+    "tags": ["webcontainers", "ai", "cloudflare-sdk"],
+    "image": "https://opengraph.githubassets.com/c9773f8199a78c0874295d5eb05d43898fed9b24e58a6f4c63b3cf9e6cbbac9d/alperrehayazgan/alperrehayazgan",
+    "filename": "2-webcontainers-on-the-browser.mdx",
+    "slug": "webcontainers-on-the-browser"
   }
 ]
